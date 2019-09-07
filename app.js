@@ -1,3 +1,3 @@
-document
-  .querySelector("section")
-  .append("REHAN IDRISI IS AWESOME AND STILL LEARNING BRUH");
+// document
+  // .querySelector("section")
+  // .append("REHAN IDRISI IS AWESOME AND STILL LEARNING BRUH");
